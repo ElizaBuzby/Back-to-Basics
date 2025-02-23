@@ -21,6 +21,7 @@ nav ol li a:hover{text-decoration: underline;}
 nav ol li a:visited{color: #008080;}
 
 p, h2{margin: auto;}
+p {margin: 1em;;}
 h2{margin: 1em;}
 
 section{display: inline-block;
