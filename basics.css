@@ -1,10 +1,12 @@
 body{background-color: rgb(241, 235, 227);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(4, 4, 49);}
+    color: rgb(4, 4, 49);
+    text-align: center;}
 
 header {background-color: rgb(5, 64, 44);
     color: whitesmoke;}
 
+nav{text-align: center;}
 nav ol li{list-style: none;
     display: inline;
     color: blue;}
@@ -12,7 +14,8 @@ nav ol li a{text-decoration: none;}
 nav ol li a:hover{text-decoration: underline;}
 nav ol li a:visited{color: blueviolet;}
 
-section image{width: 50%;
+section{display: block;}
+main section image{width: 50%;
     height: 50%;}
 
 footer {font-style: italic;
