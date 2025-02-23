@@ -1,24 +1,24 @@
 body{background-color: rgb(241, 235, 227);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(4, 4, 49);}
+    color: #004040}
 
-header {background-color: rgb(5, 64, 44);
+header {background-color: #004040;
     color: whitesmoke;
     padding: 1em;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
     border-radius: 4% 4%;
-    box-shadow: 0 4px 8px rgb(4, 4, 49);
+    box-shadow: 0 4px 8px #004040;
     margin-right: 2em; margin-left: 2em;}
 
 nav{text-align: center;}
 nav ol li{list-style: none;
     display: inline;
-    color: blue;}
+    color: #00a0a0;}
 nav ol li a{text-decoration: none;}
 nav ol li a:hover{text-decoration: underline;}
-nav ol li a:visited{color: blueviolet;}
+nav ol li a:visited{color: #008080;}
 
 p, h2{margin: auto;}
 h2{margin: 1em;}
