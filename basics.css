@@ -1,0 +1,7 @@
+body{background-color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+nav ol li{list-style: none;
+    text-decoration: none;
+    display: inline;
+    color: blue;}
