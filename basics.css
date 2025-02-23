@@ -6,7 +6,8 @@ header {background-color: rgb(5, 64, 44);
     color: whitesmoke;
     padding: 1em;
     margin-left: auto;
-    margin-right: auto;}
+    margin-right: auto;
+    text-align: center;}
 
 nav{text-align: center;}
 nav ol li{list-style: none;
@@ -16,9 +17,12 @@ nav ol li a{text-decoration: none;}
 nav ol li a:hover{text-decoration: underline;}
 nav ol li a:visited{color: blueviolet;}
 
-section{display: block;}
-main section image{width: 50%;
-    height: 50%;}
+p, h2{margin: auto;}
+
+section{display: block;
+    padding: auto;}
+main section image{width: 30%;
+    height: 30%;}
 
 footer {font-style: italic;
     font-size: small;}
