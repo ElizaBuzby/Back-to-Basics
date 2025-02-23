@@ -1,7 +1,17 @@
 body{background-color: antiquewhite;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;}
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(4, 4, 49);}
+
+header {background-color: rgb(5, 64, 44);
+    color: whitesmoke;}
 
 nav ol li{list-style: none;
     text-decoration: none;
     display: inline;
     color: blue;}
+nav ol li:hover{text-decoration: underline;}
+nav ol li:visited{color: blueviolet;}
+
+image{size: 50%;}
+
+footer {font-style: italic;}
