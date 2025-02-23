@@ -7,7 +7,9 @@ header {background-color: rgb(5, 64, 44);
     padding: 1em;
     margin-left: auto;
     margin-right: auto;
-    text-align: center;}
+    text-align: center;
+    border-radius: 4%;
+    box-shadow: 0 4px 8px rgb(4, 4, 49);}
 
 nav{text-align: center;}
 nav ol li{list-style: none;
@@ -20,7 +22,8 @@ nav ol li a:visited{color: blueviolet;}
 p, h2{margin: auto;}
 
 section{display: block;
-    padding: auto;}
+    padding: auto;
+    margin: auto;}
 main section image{width: 30%;
     height: 30%;}
 
