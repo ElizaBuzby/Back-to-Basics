@@ -12,6 +12,7 @@ nav ol li{list-style: none;
 nav ol li:hover{text-decoration: underline;}
 nav ol li:visited{color: blueviolet;}
 
-image{size: 50%;}
+section image{width: 50%;
+    height: 50%;}
 
 footer {font-style: italic;}
